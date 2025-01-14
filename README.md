@@ -11,7 +11,6 @@
 
 - ⚡ Fun fact **Loves hitting the gym and watching football.**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
