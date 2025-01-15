@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mamiololo01" alt="mamiololo01" /></a> </p>
 
-- 💬 Ask me about **Kafka, dbt, databricks, data modelling, Airflow, Tensorflow, Pyspark.**
+- 💬 Ask me about **Kafka, dbt, databricks, data modelling, Airflow, Tensorflow, Karafka, Pyspark.**
 
 - 📫 How to reach me **jaycees10000@gmail.com**
 
