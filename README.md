@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Christopher Ozurumba</h1>
-<h3 align="center">Active contributor in Github with over 6+ years experience in Data, Machine learning and AI.</h3>
+<h3 align="center">Data/ML engineerMachine and independent researcher.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mamiololo01&label=Profile%20views&color=0e75b6&style=flat" alt="mamiololo01" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mamiololo01" alt="mamiololo01" /></a> </p>
-
-- 💬 Ask me about **Kafka, dbt, databricks, data modelling, Airflow, Tensorflow, Karafka, Pyspark.**
+- 💬 Ask me about **Kafka, dbt, databricks, data modelling, Airflow, Tensorflow, Pyspark.**
 
 - 📫 How to reach me **jaycees10000@gmail.com**
 
