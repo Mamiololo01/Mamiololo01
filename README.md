@@ -1,13 +1,12 @@
 <h1 align="center">Hi 👋, I'm Christopher Ozurumba</h1>
 <h3 align="center">Data/ML engineer and independent researcher.</h3>
 
-- 💬 Ask me about **Kafka, dbt, databricks, data modelling, Airflow, Tensorflow, PySpark.**
+- 💬 Ask me about **Kafka, dbt, databricks, data modelling, Airflow, Tensorflow, and PySpark.**
 
 - 📫 How to reach me **jaycees10000@gmail.com**
 
 - ⚡ Fun fact **Loves hitting the gym and watching football.**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
