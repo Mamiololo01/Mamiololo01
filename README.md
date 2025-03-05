@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **jaycees10000@gmail.com**
 
-- ⚡ Fun fact **Loves hitting the gym and watching football.**
+- ⚡ Fun fact **Loves hitting the gym, travelling and watching football.**
 
 <p align="left">
 </p>
